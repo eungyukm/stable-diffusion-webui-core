@@ -172,3 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+models/Stable-diffusion/v1-5-pruned-emaonly.safetensors
